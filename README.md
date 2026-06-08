@@ -6,8 +6,8 @@
 
 **Portable PNG ↔ DDS texture converter based on NVIDIA Texture Tools. Single EXE file, no installation required.**
 
-[![Version](https://img.shields.io/badge/version-1.3.3.7-red)](https://github.com/yourusername/NVIDIA-Texture-Converter/releases)
-[![Windows](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/yourusername/NVIDIA-Texture-Converter/releases)
+[![Version](https://img.shields.io/badge/version-1.3.3.7-red)](https://github.com/polfes/NVIDIA-Multi-Export-Texture-Converter/releases)
+[![Windows](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/polfes/NVIDIA-Multi-Export-Texture-Converter/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## ✨ Features
