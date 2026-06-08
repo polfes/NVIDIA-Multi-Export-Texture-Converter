@@ -1,10 +1,10 @@
-# 🎮 NVIDIA Texture Converter
+# 🎮 NVIDIA Multi Export Texture Converter
 
 > RU [Русская версия](./README.ru.md)
 
 > EN [English version](./README.md)
 
-**Portable PNG ↔ DDS texture converter based on NVIDIA Texture Tools. Single EXE file, no installation required.**
+**Multi / Portable PNG ↔ DDS texture converter based on NVIDIA Texture Tools. Single EXE file, no installation required.**
 
 [![Version](https://img.shields.io/badge/version-1.3.3.7-red)](https://github.com/polfes/NVIDIA-Multi-Export-Texture-Converter/releases)
 [![Windows](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/polfes/NVIDIA-Multi-Export-Texture-Converter/releases)
