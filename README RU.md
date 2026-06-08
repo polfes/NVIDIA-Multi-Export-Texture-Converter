@@ -1,6 +1,6 @@
-# 🎮 Массовый / Конвертер текстур NVIDIA
+# 🎮 NVIDIA Multi Export Texture Converter 
 
-**Портативный конвертер текстур PNG ↔ DDS на основе инструментов NVIDIA Texture Tools.** Один EXE-файл, установка не требуется.**
+**Портативный / Массовый конвертер текстур PNG ↔ DDS на основе инструментов NVIDIA Texture Tools.** Один EXE-файл, установка не требуется.**
 
 [![Версия](https://img.shields.io/badge/version-1.3.3.7-red)](https://github.com/polfes/NVIDIA-Multi-Export-Texture-Converter/releases)
 [![Windows](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/polfes/NVIDIA-Multi-Export-Texture-Converter/releases)
