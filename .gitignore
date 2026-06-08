@@ -45,7 +45,7 @@ temp/
 Temp/
 
 # NVIDIA Texture Tools (keep only the exe, ignore rest if needed)
-# NVIDIA Texture Tools/redist/ - комментируй если хочешь сохранить DLL
+# NVIDIA Texture Tools/redist/
 
 # Windows
 Thumbs.db
