@@ -49,3 +49,9 @@
 ### Способ 2: Командная строка
 ```bash
 TextureConverter.exe "C:\MyTextures"
+```
+
+## 💻 Инструкция по компиляции (Вам потребуется папка "NVIDIA Texture Tools" в той же папке, куда вы будете компилировать исполняемый файл)
+```bash
+pyinstaller --onefile --name "TextureConverter" --add-data "NVIDIA Texture Tools;NVIDIA Texture Tools" --console --uac-admin --icon="icon.ico" --version-file="version.txt" texture_converter.py
+```
