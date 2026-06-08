@@ -34,14 +34,14 @@
 ## 🚀 How to Use
 
 ### Method 1: Drag & Drop (Recommended)
-1. Drag PNG or DDS files onto `TextureConverter.exe`
+1. Drag PNG or DDS files onto `TX.Tool.Auto.exe`
 2. Select format (for PNG → DDS)
 3. Wait for completion
 4. Done! Files appear next to originals
 
 ### Method 2: Command Line
 ```bash
-TextureConverter.exe "C:\MyTextures"
+TX.Tool.Auto.exe "C:\MyTextures"
 ```
 
 ## 💻 How to compile (You need to have the "NVIDIA Texture Tools" folder in the folder where you will compile the exe)
