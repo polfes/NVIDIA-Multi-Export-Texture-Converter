@@ -44,7 +44,7 @@
 TextureConverter.exe "C:\MyTextures"
 ```
 
-## 💻 How create exe (You need to have the "NVIDIA Texture Tools" folder in the folder where you will compile the exe)
+## 💻 How to compile (You need to have the "NVIDIA Texture Tools" folder in the folder where you will compile the exe)
 ```bash
 pyinstaller --onefile --name "TextureConverter" --add-data "NVIDIA Texture Tools;NVIDIA Texture Tools" --console --uac-admin --icon="icon.ico" --version-file="version.txt" texture_converter.py
 ```
