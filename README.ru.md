@@ -22,21 +22,14 @@
 
 ## 📋 Доступные форматы
 
-| Формат | Описание | Лучше всего подходит для |
-
-|--------|--------------|----------|
-
-| **BC1 (DXT1)** | Без альфа-канала, наименьший размер | Непрозрачные текстуры |
-
-| **BC2 (DXT3)** | Четкий 4-битный альфа-канал | Интерфейс с четкими краями |
-
-| **BC3 (DXT5)** | Плавная интерполированная альфа-канал | ★ **РЕКОМЕНДУЕТСЯ** для большинства |
-
-| **BC4 (ATI1)** | Одноканальный | Карты высот, маски |
-
-| **BC5 (ATI2)** | Двухканальный | Карты нормалей |
-
-| **BC7** | Высокое качество | Игры с DirectX 11+ |
+| Format | Description | Best for |
+|--------|-------------|----------|
+| **BC1 (DXT1)** | No alpha, smallest size | Opaque textures |
+| **BC2 (DXT3)** | Sharp 4-bit alpha | UI with hard edges |
+| **BC3 (DXT5)** | Smooth interpolated alpha | ★ **RECOMMENDED** for most |
+| **BC4 (ATI1)** | Single channel | Height maps, masks |
+| **BC5 (ATI2)** | Two channel | Normal maps |
+| **BC7** | High quality | DirectX 11+ games |
 
 ## 🚀 Как использовать
 
